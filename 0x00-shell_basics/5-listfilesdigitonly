@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l -g -X -u
+ls -l -g -u
