@@ -1,1 +1,0 @@
-For dev-lops tutorials on alx
