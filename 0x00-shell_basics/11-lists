@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -flan $PWD ../ /boot
+ls -flan $PWD ..x /boot
