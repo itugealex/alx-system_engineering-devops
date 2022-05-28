@@ -1,2 +1,2 @@
-#1/bind/bash
+#!/bin/bash
 ls -a   ../ /boot 
